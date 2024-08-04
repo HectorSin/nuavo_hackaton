@@ -1,0 +1,7 @@
+#.venv\Scripts\activate
+pandas
+scikit-learn
+wandb
+torch
+numpy==1.24.4
+matplotlib
