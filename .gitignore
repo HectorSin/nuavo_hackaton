@@ -1,3 +1,3 @@
 # 가상환경
 .venv/
-.wandb/
+wandb/
